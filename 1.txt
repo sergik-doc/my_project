@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 fusion flash
+=======
+
+fusion origin js
+>>>>>>> br2
